@@ -1,1 +1,1 @@
-Currency Exchange Application where anyone can convert Currency with offline Storage
+Currency Exchange Application where anyone can convert Currency [ Offline and Online Support]
